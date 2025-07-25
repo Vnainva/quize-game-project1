@@ -50,5 +50,8 @@ A simple Java console application that fetches multiple-choice quiz questions fr
 
 &nbsp;  javac -cp .;json-simple-1.1.1.jar \*.java
 
+2\, Run;
+
+java -cp .;json-simple-1.1.1.jar QuizGame
 
 
